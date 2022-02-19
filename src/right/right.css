@@ -1,0 +1,52 @@
+.son{
+  background:black;
+  width:500px;
+ 
+}
+.right{
+  margin-left:30px;
+}
+#cars{
+  height:30px;
+  width:110px;
+  background:grey;
+  color:white;
+  border-radius: 10px;
+}
+#drop{
+   height:30px;
+  width:160px;
+ border:2px solid darkblue;
+  background:black;
+  color:white;
+  border-radius: 10px;
+  margin:20px;
+  
+}
+
+.right a{
+  margin-left:20px;
+  text-decoration:none;
+  color:white;
+}
+input{
+  margin-left:20px;
+  background:gray;
+
+  margin-top:10px;
+   border-radius: 10px;
+  height:30px;
+  width:200px;
+}
+button{
+  background:blue;
+  color:white;
+  margin-left:40px;
+  margin-top:20px;
+}
+.ton{
+    border-radius: 10px;
+  background:black;
+  color:white;
+  margin-left:10px;
+}
